@@ -20,8 +20,8 @@ The minimal use case is an example of a smart contract that interacts with the S
 
 ### Smart Contracts Lab Addresses
 
-- Polygon Mainnet: 0x067504587E1E598F861282C9fFd619E5B0a0d238 
-- Mumbai testnet: 0xD200F64cEcc8bBc1292c0187F5ee6cD7bDf1eeac 
+- Polygon Mainnet: 0x58e60cDC29099Aa54Df0EDCBF102896a819689Dc 
+- Mumbai testnet: 0x58e60cDC29099Aa54Df0EDCBF102896a819689Dc 
 
 ### Smart Contracts Lab Commitments
 
